@@ -13,6 +13,7 @@
 | Lyric Writing Date | April 26, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/b3eed-w-2albi-ma3ak-far-away-and-my-heart-with-you/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Request Licensing for B3eed W 2albi Ma3ak – Far Away and My Heart with You](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
